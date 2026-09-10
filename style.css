@@ -1,0 +1,9 @@
+.cabecalho{background-color: aqua;
+color: azure;
+display: flex;
+justify-content: space-around;}
+
+.imagem-logo{width: 80px;}
+
+.sobre{background-color: blue;
+color: black;}
