@@ -26,3 +26,11 @@ padding: 40px;}
     background-color: blue;
     padding-bottom: 20px;
  }
+.vendas-imagem{
+   width: 60% ;
+   height: 200px ;
+   object-fit: cover;
+}
+.vendas-titulo {
+   margin-top: 15px;
+}
